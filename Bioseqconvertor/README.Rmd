@@ -14,7 +14,7 @@ BioSeqConvertor is an R package designed for the determination and conversion of
 You can install BioSeqConvertor from GitHub using the `devtools` package:
 
 ```r
-devtools::install_github("your_username/BioSeqConvertor")
+devtools::install_github("https://github.com/venkypintu16/BioseqConvertor-package.git")
 ```r
 
 ## Load the package
