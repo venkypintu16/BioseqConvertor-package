@@ -1,0 +1,12 @@
+Package: Bioseqconvertor
+Title: A package that converts the Bio sequences like DNA to RNA,RNA to Protein & Protein to CDNA. 
+Version: 0.0.0.9000
+Authors@R: 
+  person("Venkateswar Reddy", "Pamireddy Gari", , "pamireddygariv@usf.edu", role = c("aut", "cre"))
+Description: This package "Bioseqconvertor" simplifies the conversion of Bio sequence information to required sequence information like RNA, CDNA, PROTEIN.
+Depends: R (>= 3.1.2)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
