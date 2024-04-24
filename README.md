@@ -1,1 +1,0 @@
-# BioseqConvertor-package
