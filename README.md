@@ -9,3 +9,4 @@ The last function is protein_to_cdna which converts the protein sequence into DN
 I hope this package is useful for bioinformatics analysis and molecular biology research.
 
 Moreover, you can find a summary for my package in my blog post. Here, is the link for my blog: 
+https://venkypintu.blogspot.com/2024/04/bioseqconvertor-r-package.html
